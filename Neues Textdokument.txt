@@ -16,7 +16,7 @@ namespace Hello_World_Mecke
             Console.WriteLine("Hello World von XXX");
 
             // Ausgabe Benutzer 2
-            Console.WriteLine("Nǐ hǎo, shìjiè")
+            Console.WriteLine("Nǐ hǎo, shìjiè");
 
             // Ausgabe Benutzer 3
             Console.WriteLine("Hallo Welt von XXX");
